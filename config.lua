@@ -10,7 +10,7 @@ return {
 		}
 	},
 	log_chat = -1001057801239,
-	channel = '@delta_team', --channel username with the '@'
+	channel = '@team_delta', --channel username with the '@'
 	help_group = 'https://telegram.me/joinchat/CHYUej9jFxFHi6iNcZpe9w', --group link, not username!
 	languages = 'languages.lua',
 	plugins = {
